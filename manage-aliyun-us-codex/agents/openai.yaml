@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Aliyun US Codex"
+  short_description: "Connect to and verify Codex on the US ECS host"
+  default_prompt: "Use $manage-aliyun-us-codex to check and operate Codex on my Aliyun US server."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Ark Coding Plan"
+  short_description: "Configure Claude Code for Volcengine Ark Coding Plan"
+  default_prompt: "Help me configure Claude Code to use my Volcengine Ark Coding Plan and verify it works."
